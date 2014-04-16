@@ -10,4 +10,10 @@ public class ImageEditorFrame extends JFrame{
 
 		setVisible(true); 
 	} 
+	
+	public static void main(String[] args) {
+	ImageEditorFrame frame = new ImageEditorFrame();
+	
+	
+	}
 }
